@@ -10,7 +10,7 @@ Snapprefs is a project which offers enhanced features for Snapchat through the [
 
 [Snapprefs on XDA-Developers](http://forum.xda-developers.com/xposed/modules/app-snapprefs-ultimate-snapchat-utility-t2947254)
 
-Want to be up to date with our Projects? [Visit our website!](http://snapprefs.com)
+Want to be kept up to date with our Projects? [Visit our website!](http://snapprefs.com)
 
 Current features are:
 
@@ -115,7 +115,7 @@ Latest automatic builds (provided by m1kep):
 License
 -------
 The whole project is licensed under the GNU GPLv3, which can be found in the LICENSE file.
-The license is also included to the app in the /assets/ folder.
+The license is also included with the app in the /assets/ folder.
 
 *Copyright (C) 2014-2016 Marcell Mészáros*
 
